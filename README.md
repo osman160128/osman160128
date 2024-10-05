@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm osman160128</h1>
+<h1 align="center">Hi 👋, I'm MD OSMAN HOSEN PARVEJ</h1>
 <h3 align="center">I am Android Developer.I am open to work</h3>
 
 - 🔭 I’m currently working on **Android project**
 
-- 🌱 I know **Android development,JAVA,KOTLIN,PHP**
+- 🌱 I know **Android development,JAVA,KOTLIN,PHP,C**
 
 - 👯 I’m looking to collaborate on **Android project**
 
